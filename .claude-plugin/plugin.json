@@ -1,0 +1,7 @@
+{
+  "name": "usage-bands",
+  "version": "0.3.0",
+  "author": { "name": "Jordan" },
+  "description": "Shows API cost, tokens and active time, and context window usage next to the 5-hour and weekly limits, in a band above the prompt",
+  "types": "./types/index.d.ts"
+}
